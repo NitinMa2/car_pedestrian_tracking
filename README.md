@@ -6,7 +6,7 @@ The classifier has a decent accuracy and is not perfect. This is a simple projec
 
 ## Demo
 
-<img src="demo.gif?raw=true" width="200px">
+<img src="demo.gif?raw=true" width="500px">
 
 ## Resources 
 
