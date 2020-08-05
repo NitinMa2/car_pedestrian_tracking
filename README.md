@@ -2,7 +2,7 @@
 > Python app that tracks cars and pedestrians in a video using OpenCV
 
 A very simple python program that uses public classifiers to perform tracking with OpenCv.
-The classifier has a decent accuracy and is not perfect. This is a simple project that can helps understand how tracking in video works.
+The classifier has a decent accuracy and is not perfect. This is a simple project that helps understand how tracking in video works.
 
 ## Demo
 
